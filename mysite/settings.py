@@ -25,7 +25,7 @@ SECRET_KEY = 'z4dojdc=$w#xm)1@6pqai9)5m!0+-blye(79ni2@dj50kj#e5y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost','192.168.1.74']
+ALLOWED_HOSTS = ['localhost','192.168.1.74','mcnally.pythonanywhere.com']
 
 
 # Application definition
